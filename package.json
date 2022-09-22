@@ -1,0 +1,21 @@
+{
+  "name": "github-vscode",
+  "displayName": "Github + VSCode",
+  "description": "Github theme + VSCode Dark+ tokens",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Github + VSCode",
+        "uiTheme": "vs-dark",
+        "path": "./themes/github+vscode-color-theme.json"
+      }
+    ]
+  }
+}
