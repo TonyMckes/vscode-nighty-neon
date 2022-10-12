@@ -1,8 +1,8 @@
 {
-  "name": "github-vscode",
-  "displayName": "Github + VSCode",
-  "description": "Github theme + VSCode Dark+ tokens",
-  "version": "0.0.1",
+  "name": "nighty-neon",
+  "displayName": "Nighty Neon",
+  "description": "Theme for Visual Studio Code based on Dark theme from Github and tokens from Visual Studio Code Dark+ theme.",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.71.0"
   },
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Github + VSCode",
+        "label": "Nighty Neon",
         "uiTheme": "vs-dark",
-        "path": "./themes/github+vscode-color-theme.json"
+        "path": "./themes/nighty-neon-color-theme.json"
       }
     ]
   }
