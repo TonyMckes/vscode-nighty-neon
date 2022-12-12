@@ -1,5 +1,7 @@
 {
-  "name": "Nighty Neon", 
+  "$schema": "vscode://schemas/color-theme",
+  "name": "Nighty Neon",
+	"type": "dark",
   "colors": {
     "activityBar.activeBackground": null,
     "activityBar.activeBorder": "#f9826c",
